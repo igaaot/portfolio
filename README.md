@@ -1,4 +1,4 @@
-### Made with ❤️ by [Igor Nogueira Ferreira](https://www.linkedin.com/in/igor-nogueira-146348299/)
+### Made by [Igor Nogueira Ferreira](https://www.linkedin.com/in/igor-nogueira-146348299/)
 
 Like my works and want to support me?
 
