@@ -33,12 +33,3 @@ Aqui você vai encontrar:
 - JavaScript
 - HTML/CSS
 
----
-
-## Como rodar o projeto
-
-```bash
-git clone https://github.com/igaaot/nomedoseurepo.git
-cd nomedoseurepo
-npm install
-npm start
