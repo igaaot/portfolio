@@ -1,11 +1,44 @@
-### Made by [Igor Nogueira Ferreira](https://www.linkedin.com/in/igor-nogueira-146348299/)
+# Portfólio - Igor Nogueira Ferreira
 
-Like my works and want to support me?
-
-<a href="https://www.buymeacoffee.com/igorferreira" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 162.75px !important;" ></a>
+Este repositório contém meu portfólio profissional, feito para apresentar quem eu sou, meus projetos e minhas habilidades como desenvolvedor.
 
 ---
 
-## Other projects!
+## Sobre mim
 
-📚 [All Web Cifar Project Tutorials](https://github.com/igaaot)
+Me chamo **Igor Nogueira Ferreira**, sou estudante de **Análise e Desenvolvimento de Sistemas** na FATEC de São Caetano do Sul.  
+Gosto de programar, aprender coisas novas e criar soluções que realmente funcionam.
+
+Tenho conhecimentos em:
+- Front-end com **HTML, CSS, JavaScript e React**
+- Back-end com **Java, .NET e Node.js**
+- Bancos de dados como **MySQL e MariaDB**
+- Também tenho familiaridade com ferramentas como Git, GitHub e Excel com VBA
+
+---
+
+## O que tem nesse portfólio?
+
+Aqui você vai encontrar:
+- Um pouco sobre mim
+- Meus principais projetos, com links para o GitHub
+- Minhas habilidades e formas de contato
+
+---
+
+## Tecnologias usadas no portfólio
+
+- React
+- Styled-components
+- JavaScript
+- HTML/CSS
+
+---
+
+## Como rodar o projeto
+
+```bash
+git clone https://github.com/igaaot/nomedoseurepo.git
+cd nomedoseurepo
+npm install
+npm start
