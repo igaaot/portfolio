@@ -6,13 +6,14 @@ Este repositório contém meu portfólio profissional, feito para apresentar que
 
 ## Sobre mim
 
-Me chamo **Igor Nogueira Ferreira**, sou estudante de **Análise e Desenvolvimento de Sistemas** na FATEC de Sao Caetano do Sul.  
-Gosto de programar, aprender coisas novas e criar soluções que realmente funcionam.
+Sou o Igor Nogueira Ferreira, estudante de Análise e Desenvolvimento de Sistemas na FATEC São Caetano do Sul.
+Gosto de programar e aprender coisas novas!!
 
 Tenho conhecimentos em:
 - Front-end com **HTML, CSS, JavaScript e React**
 - Back-end com **Java, .NET e Node.js**
 - Bancos de dados como **MySQL e MariaDB**
+- Especificação de requisitos, análise e modelagem (Engenharia de Software)
 - Também tenho familiaridade com ferramentas como Git, GitHub e Excel com VBA
 
 ---
