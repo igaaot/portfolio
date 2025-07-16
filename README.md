@@ -6,7 +6,7 @@ Este repositório contém meu portfólio profissional, feito para apresentar que
 
 ## Sobre mim
 
-Me chamo **Igor Nogueira Ferreira**, sou estudante de **Análise e Desenvolvimento de Sistemas** na FATEC de São Caetano do Sul.  
+Me chamo **Igor Nogueira Ferreira**, sou estudante de **Análise e Desenvolvimento de Sistemas** na FATEC de Sao Caetano do Sul.  
 Gosto de programar, aprender coisas novas e criar soluções que realmente funcionam.
 
 Tenho conhecimentos em:
@@ -29,7 +29,6 @@ Aqui você vai encontrar:
 ## Tecnologias usadas no portfólio
 
 - React
-- Styled-components
 - JavaScript
 - HTML/CSS
 
