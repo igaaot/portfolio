@@ -83,7 +83,7 @@ Trabalho em equipe | Comunicação | Foco em resultados | Resolução de problem
 📍 Santo André – SP  
 📧 **igornogueiraferreira77@gmail.com**  
 📱 **(11) 96323-4452**  
-🔗 **GitHub:** *(adicione o link aqui)*  
-🔗 **LinkedIn:** *(adicione o link aqui)*
+🔗 **GitHub:** *(https://github.com/igaaot)*  
+🔗 **LinkedIn:** *(https://www.linkedin.com/in/igor-nogueira-146348299/)*
 
 ---
