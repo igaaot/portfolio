@@ -1,42 +1,43 @@
 # Portfólio - Igor Nogueira Ferreira
 
-Este repositório contém meu portfólio profissional, feito para apresentar quem eu sou, meus projetos e minhas habilidades como desenvolvedor e futuro analista de dados.
+Esse repositório contém meu portfólio profissional, feito para apresentar quem eu sou, meus projetos e minhas habilidades como desenvolvedor e futuro analista de dados.
 
 ---
 
 ## Sobre mim
 
-Sou **Igor Nogueira Ferreira**, estudante do 5º semestre de Análise e Desenvolvimento de Sistemas na **FATEC São Caetano do Sul – Antônio Russo**.
+Sou **Igor Nogueira Ferreira**, estudante de Análise e Desenvolvimento de Sistemas na **FATEC São Caetano do Sul – Antônio Russo**.
 
-Sou apaixonado por tecnologia, análise de dados e desenvolvimento de soluções que facilitem processos e automatizem tarefas. Gosto de programar, aprender coisas novas e colocar em prática tudo o que estudo.
+Nos últimos semestres tenho direcionado meus estudos para a área de **Análise de Dados**, principalmente trabalhando com **SQL, Python, Excel e Power BI**. Gosto de explorar dados, organizar informações e construir visualizações que ajudem a entender melhor os resultados.
+
+Busco minha **primeira oportunidade de estágio na área de dados**, onde eu possa aplicar o que venho aprendendo na faculdade e continuar evoluindo na prática.
 
 Tenho conhecimentos em:
 
-### **Desenvolvimento**
-- Front-end: **HTML, CSS, JavaScript, React**
-- Back-end: **Java, Node.js e .NET**
-- Banco de dados: **MySQL, MariaDB, SQL Server, PostgreSQL**
+### Desenvolvimento
+- **Java**
+- **JavaScript**
+- **HTML**
+- **CSS**
+- **Node.js**
+- **React**
 
-### **Análise de Dados**
-- Linguagens: **Python, R, SQL**
-- Ferramentas: **Power BI, Excel avançado (VBA), ETL**
-- Frameworks e Tools: **Spark, Figma, AWS**
+### Banco de Dados
+- **MySQL**
+- **PostgreSQL**
+- **SQL Server**
+- **MariaDB**
+
+### Análise de Dados
+- **SQL**
+- **Python**
+- **Power BI**
+- **Excel(avançado)**
 
 ### **Outras Competências**
-- Engenharia de Software (especificação, requisitos, modelagem)
-- Git e GitHub
-- Resolução de problemas, organização, comunicação e trabalho em equipe
-
----
-
-## O que tem nesse portfólio?
-
-Aqui você vai encontrar:
-- Um pouco sobre mim
-- Minhas principais experiências e projetos
-- Projetos de análise de dados e desenvolvimento
-- Minhas habilidades técnicas e ferramentas que utilizo
-- Meus contatos e redes profissionais
+- **Engenharia de Software (especificação, requisitos, modelagem)**
+- **Git e GitHub**
+- **Resolução de problemas, organização, comunicação e trabalho em equipe**
 
 ---
 
@@ -53,20 +54,12 @@ Projeto full stack para gerenciamento de contatos, com frontend em React (formul
 
 ---
 
-## Skills
+## Tecnologias utilizadas neste portfólio
 
-### **Linguagens**
-Python | R | SQL | Java | JavaScript | VBA | C
-
-### **Ferramentas e Tecnologias**
-Power BI | NodeJS | ReactJS | Spark | Excel (VBA) | AWS | ETL | Figma
-
-### **Banco de Dados**
-MySQL | SQL Server | PostgreSQL | MariaDB
-
-### **Soft Skills**
-Perfil analítico | Organização | Proatividade  
-Trabalho em equipe | Comunicação | Foco em resultados | Resolução de problemas
+- React  
+- JavaScript  
+- HTML  
+- CSS  
 
 ---
 
